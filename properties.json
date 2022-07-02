@@ -1,0 +1,30 @@
+{
+  "racers": [
+    {
+      "name": "basic horse",
+      "images": ["assets/horse1.png", "assets/horse2.png"]
+    },
+    {
+      "name": "special horse",
+      "images": ["assets/sunrise1.png", "assets/sunrise2.png"]
+    },
+    {
+      "name": "sports car",
+      "images": ["assets/car1.png", "assets/car2.png"]
+    },
+    {
+      "name": "agnomus",
+      "images": ["assets/amongus1.png", "assets/amongus2.png"]
+    },
+    {
+      "name": "ozn",
+      "images": ["assets/ozn.png"]
+    },
+    {
+      "name": "capybara",
+      "images": ["assets/capybara1.png", "assets/capybara2.png"]
+    }
+  ],
+  "coins": 10000,
+  "names": ["Midnight Sun", "Snowman", "Diablo", "Domino"]
+}
