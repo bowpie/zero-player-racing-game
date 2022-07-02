@@ -11,6 +11,8 @@ It has a money management system and customizable racer avatars. These changes c
 
 ### How to play?
 
+![Menu](/screenshots/mainmenu.PNG)
+
 The main menu consists of 4 buttons which you can directly click or move up and down with arrows.
 You have `Play, About, Options, Quit`. If you want to customize either the speed or the current avatar for the racer you can to so in the `Options` part.
 
